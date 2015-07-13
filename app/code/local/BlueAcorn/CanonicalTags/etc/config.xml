@@ -1,14 +1,17 @@
+<?xml version="1.0"?>
 <config>
     <modules>
         <BlueAcorn_CanonicalTags>
             <version>0.0.1</version>
         </BlueAcorn_CanonicalTags>
     </modules>
-    <layout>
-        <updates>
-            <blueacorn_canonicaltags>
-                <file>blueacorn/canonical.xml</file>
-            </blueacorn_canonicaltags>
-        </updates>
-    </layout>
+    <frontend>
+        <layout>
+            <updates>
+                <blueacorn_canonicaltags>
+                    <file>blueacorn/canonical.xml</file>
+                </blueacorn_canonicaltags>
+            </updates>
+        </layout>
+    </frontend>
 </config>
