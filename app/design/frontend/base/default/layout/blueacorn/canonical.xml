@@ -2,10 +2,8 @@
 <layout version="0.1.0">
     <default>
         <reference name="head">
-            <action method="addLinkRel">
-                <rel>canonical</rel>
-                <href>http://www.chromeindustries.com/</href>
-            </action>
+            <action method="addLinkRel"><rel>canonical</rel><href>http://www.chromeindustries.com/</href></action>
+            <block type="core/template" name="canonical" template="blueacorn/canonical/canonicaltags.phtml" />
         </reference>
     </default>
 </layout>
