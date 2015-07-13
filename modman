@@ -1,4 +1,4 @@
-app/code/local/BlueACorn/CanonicalTags/etc/config.xml app/code/local/BlueACorn/CanonicalTags/etc/config.xml
+app/code/local/BlueAcorn/CanonicalTags/etc/config.xml app/code/local/BlueAcorn/CanonicalTags/etc/config.xml
 app/design/frontend/base/default/layout/blueacorn/canonical.xml app/design/frontend/base/default/layout/blueacorn/canonical.xml
 app/etc/modules/BlueAcorn_CanonicalTags.xml app/etc/modules/BlueAcorn_CanonicalTags.xml
 
